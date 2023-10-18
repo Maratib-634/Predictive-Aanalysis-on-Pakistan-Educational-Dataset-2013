@@ -9,11 +9,7 @@ Predictive analysis on the Pakistan Educational Dataset 2013 for primary schools
 - [Targets Achieved](#targets-achieved)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## About
 
