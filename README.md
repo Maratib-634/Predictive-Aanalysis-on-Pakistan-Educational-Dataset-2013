@@ -1,20 +1,52 @@
-This project inlcude the predictive analysis on the dataset of Pakistan Educational Dataset 2013 collected on for primary shcools.
+# Pakistan Educational Dataset 2013 Analysis
 
-**ABOUT DATASET**
+Predictive analysis on the Pakistan Educational Dataset 2013 for primary schools.
 
-This Dataset is consolidated from the surveys of Alif Ailaan & Aser Pakistan on Primary Schooling Performance.Dataset contains different dimensions and measures across the board that were used to measure the performance.I have compiled individual file of each year into one for your facilitation.
+## Table of Contents
+- [About](#about)
+- [Technologies Used](#technologies-used)
+- [Steps Taken](#steps-taken)
+- [Targets Achieved](#targets-achieved)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-This Dataset is compiled by me and i am very thankful to ASER Pakistan & Alif Ailaan for providing PDFs from which i extracted.
+## About
 
-Explore this Visualization to interpret performance province wise, city wise and identify different needs and room for actionable improvements.
-For starting see this:
-https://public.tableau.com/views/PakistanEducationalPerformance-Dashboard/PakistanEducationPerformanceDashboard?%3Aembed=y&%3AshowVizHome=no&%3Adisplay_count=y&%3Adisplay_static_image=y&%3AbootstrapWhenNotified=true
+This project involves predictive analysis on the Pakistan Educational Dataset 2013. The dataset is consolidated from surveys conducted by Alif Ailaan & Aser Pakistan to assess the performance of primary schools. The goal of this project is to predict performance in terms of enrollment, learning, educational scores, and retention.
 
-**TECHNOLOGIES USED**
+## Technologies Used
+
 1. Python
 2. Google Colab
 3. Power BI
 
-**TARGETS ACHIEVED**
+## Steps Taken
 
-The Aim was to predict the performance of enrollment, learning, eduational and retention scores.
+1. Data preprocessing and cleaning
+2. Data Analysis
+3. Data Visualization using Power BI
+4. Machine learning
+
+## Targets Achieved
+
+The aim was to predict the performance of enrollment, learning, educational, and retention scores.
+
+## Getting Started
+
+### Prerequisites
+
+- Python (recommended version X.X.X)
+- Jupyter Notebook (optional)
+- Power BI Desktop (recommended version X.X)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/pakistan-educational-analysis.git
+   cd pakistan-educational-analysis
