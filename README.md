@@ -1,6 +1,6 @@
 This project inlcude the predictive analysis on the dataset of Pakistan Educational Dataset 2013 collected on for primary shcools.
 
-**ABOUT DATASET:**
+**ABOUT DATASET**
 This Dataset is consolidated from the surveys of Alif Ailaan & Aser Pakistan on Primary Schooling Performance.Dataset contains different dimensions and measures across the board that were used to measure the performance.I have compiled individual file of each year into one for your facilitation.
 
 This Dataset is compiled by me and i am very thankful to ASER Pakistan & Alif Ailaan for providing PDFs from which i extracted.
